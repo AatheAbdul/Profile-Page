@@ -38,29 +38,16 @@ This repository contains the code for my personal profile website, showcasing my
 * **Google Fonts**: Specifically "Italianno" for headings.
 * **Bootstrap Icons**: For various icons used throughout the profile.
 
-Project Structure
-.
-├── assets/
-│   ├── C.png
-│   ├── CSS.png
-│   ├── EcoCrush.jpg
-│   ├── Figma.png
-│   ├── FoodKart.jpg
-│   ├── HospitalManagementSystem.jpg
-│   ├── html.png
-│   ├── js.png
-│   ├── linux.png
-│   ├── mysql.png
-│   ├── oracle.png
-│   ├── php.png
-│   ├── profile_image.jpg
-│   ├── python.png
-│   ├── RecipeManagementSystem.jpg
-│   ├── ToDoList.jpg
-│   └── ubuntu.png
-├── index.html
-├── script.js
-└── styles.css
+## Project Structure
+. (Root Directory)
+
+   assets/ (Directory for images and other assets)
+   
+   index.html (Main HTML file)
+
+   script.js (JavaScript for interactive elements)
+
+   styles.css (CSS for styling)
 
 
 
