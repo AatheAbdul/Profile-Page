@@ -39,29 +39,29 @@ This repository contains the code for my personal profile website, showcasing my
 * **Bootstrap Icons**: For various icons used throughout the profile.
 
 ## Project Structure
-
 .
 ├── assets/
-|     ├── C.png
-|     ├── CSS.png
-|     ├── EcoCrush.jpg
-|     ├── Figma.png
-|     ├── FoodKart.jpg
-|     ├── HospitalManagementSystem.jpg
-|     ├── html.png
-|     ├── js.png
-|     ├── linux.png
-|     ├── mysql.png
-|     ├── oracle.png
-|     ├── php.png
-|     ├── profile_image.jpg
-|     ├── python.png
-|     ├── RecipeManagementSystem.jpg
-|     ├── ToDoList.jpg
-|     └── ubuntu.png
+│   ├── C.png
+│   ├── CSS.png
+│   ├── EcoCrush.jpg
+│   ├── Figma.png
+│   ├── FoodKart.jpg
+│   ├── HospitalManagementSystem.jpg
+│   ├── html.png
+│   ├── js.png
+│   ├── linux.png
+│   ├── mysql.png
+│   ├── oracle.png
+│   ├── php.png
+│   ├── profile_image.jpg
+│   ├── python.png
+│   ├── RecipeManagementSystem.jpg
+│   ├── ToDoList.jpg
+│   └── ubuntu.png
 ├── index.html
 ├── script.js
 └── styles.css
+
 
 
 * `index.html`: The main HTML file containing the structure and content of the profile.
