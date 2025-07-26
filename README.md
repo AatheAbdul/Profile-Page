@@ -38,7 +38,7 @@ This repository contains the code for my personal profile website, showcasing my
 * **Google Fonts**: Specifically "Italianno" for headings.
 * **Bootstrap Icons**: For various icons used throughout the profile.
 
-## Project Structure
+Project Structure
 .
 ├── assets/
 │   ├── C.png
@@ -61,6 +61,7 @@ This repository contains the code for my personal profile website, showcasing my
 ├── index.html
 ├── script.js
 └── styles.css
+
 
 
 
