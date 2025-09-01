@@ -79,7 +79,6 @@ footer {
 
 .about-me {
     display: flex;
-    column-gap: 3rem;
     justify-content: space-between;
     align-items: center;
     background-color: #121212;
@@ -108,9 +107,10 @@ footer {
     width: 50%;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: fit-content;
     margin: 1rem;
     opacity: 0.9;
+    padding: 0.5rem;
 }
 
 .about-icons {
@@ -283,20 +283,6 @@ footer {
 
 .timeline-content ul {
     padding: 2rem;
-}
-
-.carousel-btn {
-    background-color: transparent;
-    color: #BB86FC;
-    text-shadow: 2px 2px 2px #0000007a;
-    border: none;
-    cursor: pointer;
-    font-size: 3rem;
-    margin: 1rem;
-}
-
-.carousel-btn:hover {
-    color: #E0E0E0;
 }
 
 .carousel {
