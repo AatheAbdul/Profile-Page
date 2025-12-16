@@ -39,15 +39,14 @@ This repository contains the code for my personal profile website, showcasing my
 * **Bootstrap Icons**: For various icons used throughout the profile.
 
 ## Project Structure
-. (Root Directory)
 
-   assets/ (Directory for images and other assets)
-   
-   index.html (Main HTML file)
-
-   script.js (JavaScript for interactive elements)
-
-   styles.css (CSS for styling)
+```text
+.
+├── assets/
+│   └── (images and other assets)
+├── index.html        # Main HTML file
+├── script.js         # JavaScript for interactive elements
+└── styles.css        # CSS for styling
 
 
 
