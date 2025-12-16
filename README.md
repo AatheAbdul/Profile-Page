@@ -47,7 +47,7 @@ This repository contains the code for my personal profile website, showcasing my
 ├── index.html        # Main HTML file
 ├── script.js         # JavaScript for interactive elements
 └── styles.css        # CSS for styling
-
+```
 
 
 
